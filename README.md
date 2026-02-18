@@ -1,1 +1,1 @@
-https://github.com/mishabas/Misha-Bas-CV.git
+https://roadmap.sh/projects/single-page-cv
