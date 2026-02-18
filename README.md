@@ -1,1 +1,118 @@
-# Misha-Bas-CV
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Mykhailo Bas</title>
+    <style> 
+    
+    body {
+        font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    }
+
+    h2 {
+        color: green
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    h2,p {
+        font-size: 18px;
+    }
+
+    h2,h3,h1,p {
+        font-weight: 400;
+    }
+
+    h3 {
+        color:rgb(0, 106, 255)
+    }
+
+   h3 {
+    margin-bottom: 0;
+   }
+   
+   p {
+    margin: 0 0;
+   }
+
+      
+    </style>
+</head>
+<body style="padding: 30px;">
+<div style="max-width: 800px;
+            margin: auto;
+            border: 4px solid black;
+            padding: 70px;">
+        <header>
+    
+            <hr style="height: 2px; background-color:black; margin-right: 100px;">
+            <h1>Mykhailo Bas</h1>
+            
+        </header>
+   <section class="Personal-data">
+     <h2 >junior frontend developer</h2>
+    <p>
+    123 Street <br>
+    Stocholm city; st 1488 <br>
+    <a href="tel:+1234564334">+(123) 456-4334</a> <br>
+    <a href="mailto:mihail.bas.17@gmail.com">mihail.bas.17@gmail.com</a>
+    </p>
+   </section>
+   <section class="skills">
+        <h2 class="skills-title">Skills</h2>
+        <p>
+            HTML, CSS, JavaScript, Accessibility, Figma to Design, Responsive Web Design,
+            Technical Writing, Presentation
+        </p>
+   </section>
+   <section class="education">
+    <h2>Education</h2>
+    <h3>School Name, Location - Degree</h3>
+    <p>
+        Month 20xx to Month 20xx
+        List of exciting things you did at university
+    </p>
+   </section>
+   <section class="Experience">
+    <h2>Experience</h2>
+
+    <h3>Company Name, Location - Job Title</h3>
+
+    <p >Month 20xx to Month 20xx</p>
+
+    <ul>
+        <li>List of achievements</li>
+        <li>List of achievements</li>
+        <li>List of achievements</li>
+    </ul>
+
+    <p>Skills: List of skills used or gained at this company</p>
+
+    <h3>Company Name, Location - Job Title</h3>
+
+     <p>Month 20xx to Month 20xx</p>
+
+    <ul>
+        <li>List of achievements</li>
+        <li>List of achievements</li>
+        <li>List of achievements</li>
+    </ul>
+
+    <p>Skills: List of skills used or gained at this company</p>
+
+   </section>
+   <section class="AI">
+    <h2>Across the Internet</h2>
+    <ul>
+        <li><a href="https://github.com/mishabas" target="_blank">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/in/mykhailo-bas-53649b264/" target="_blank">LinkedIn</a></li>
+        
+    </ul>
+   </section>
+</div>
+</body>
+</html>
+
